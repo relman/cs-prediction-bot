@@ -4,7 +4,7 @@ Require '.headers' file' - Request headers
 """
 import time
 
-ROOT_URL = 'php.tsacerof/2dehcac/XAJA/ur.tropsrebyc.www//:ptth'[::-1]
+ROOT_URL = 'php.tsacerof/2dehcac/XAJA/ur.tropsrebyc.www//:sptth'[::-1]
 HEADERS_FILE = '.headers'
 FORECAST_ID_XPATH = '//div[@class="forecast"]/@data-mid'
 FORECAST_VOTES_XPATH = '//div[@class="forecast-votes"]/@data-votes'
